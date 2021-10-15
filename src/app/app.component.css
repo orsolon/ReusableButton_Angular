@@ -1,0 +1,28 @@
+section {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #010005;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+}
+  
+    h1 {
+      color: #66d9ef;
+    }
+  
+    span {
+      font-size: 18px;
+      display: block;
+      margin-top: 50px;
+      color: #ffff;
+    }
+  
+    .btns-container {
+      display: flex;
+      flex-direction: row;
+      width: 350px;
+      margin: 50px auto;
+      justify-content: space-around;
+    }
